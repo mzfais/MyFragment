@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fragment_a">Hello Frament A</string>
+    <string name="hello_fragment_b">Hello fragment B</string>
+    <string name="ke_fragment_b">Ke Fragment B</string>
+    <string name="kirim_data_ke_fragment_c">Kirim data ke Fragment C</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="question_text">Apakah Anda sudah sarapan hari ini?</string>
+    <string name="yes">Ya, sudah</string>
+    <string name="no">Belum</string>
+    <string name="close">Batal</string>
+    <string name="choose">Pilih</string>
+</resources>
