@@ -62,6 +62,7 @@ public class FragmentDialog extends DialogFragment implements View.OnClickListen
                             break;
                         case R.id.rb_no:
                             answer = rbNo.getText().toString().trim();
+                            break;
                     }
                     if (optionDialogListener != null) {
                         optionDialogListener.onOptionChoose(answer);
