@@ -12,4 +12,5 @@
     <string name="no">Belum</string>
     <string name="close">Batal</string>
     <string name="choose">Pilih</string>
+    <string name="call_act">Show Activity</string>
 </resources>
